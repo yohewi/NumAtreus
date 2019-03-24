@@ -1,0 +1,683 @@
+Cmp-Mod V01 Created by PcbNew   date = 2019/02/19 1:43:10
+
+BeginCmp
+TimeStamp = 543EF800
+Path = /543EEB02
+Reference = [NoRef];
+ValeurCmp = A-STAR;
+IdModule  = A_STAR;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW0:0;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW0:1;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW0:2;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW0:3;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW1:0;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW1:1;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW1:2;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW1:3;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW2:0;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW2:1;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW2:2;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW2:3;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW3:0;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW3:1;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW3:2;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW3:3;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW4:0;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW4:1;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW4:2;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW4:3;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW5:0;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW6:0;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW7:0;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW7:1;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW7:2;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW7:3;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW8:0;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW8:1;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW8:2;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW8:3;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW9:0;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW9:1;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW9:2;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW9:3;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW10:0;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW10:1;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW10:2;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW10:3;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW11:0;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW11:1;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW11:2;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF801
+Path = /543DB910
+Reference = SW11:3;
+ValeurCmp = [NoVal];
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = 543EF854
+Path = /543DB90F
+Reference = D2:2;
+ValeurCmp = [NoVal];
+IdModule  = DIODE;
+EndCmp
+
+EndListe

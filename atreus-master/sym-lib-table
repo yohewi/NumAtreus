@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name SymbolsSimilarEN60617+oldDIN617)(type Legacy)(uri C:/Users/SurfaceGO/Desktop/kicad/ndkicadlibrary-master/library/SymbolsSimilarEN60617+oldDIN617.lib)(options "")(descr ""))
+  (lib (name New_Library)(type Legacy)(uri C:/Users/SurfaceGO/Desktop/kicad/numa.pretty/New_Library.lib)(options "")(descr ""))
+  (lib (name atreus-rescue)(type Legacy)(uri ${KIPRJMOD}/atreus-rescue.lib)(options "")(descr ""))
+)
