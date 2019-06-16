@@ -1,10 +1,11 @@
-* Atreus_numa Keyboard
+* NumAtreus Keyboard
 
-The Atreus_numa is a mechanical keyboard designed primarily to match the
+The NumAtreus is a mechanical keyboard designed primarily to match the
 shape of human hands and to be as portable as possible. 
 
 Although the design is based on Atresu, please note that the 
 MCU and QMKfirmware are different.
+
 
 
 ** License
