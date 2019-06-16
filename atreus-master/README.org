@@ -8,8 +8,8 @@ MCU and QMKfirmware are different.
 
 
 
-** License
+** 
 
-Copyright © 2014-2018 Phil Hagelberg and contributors
+Base Keyboard Atreus builder is Phil Hagelberg
 
 Released under the [[https://www.gnu.org/licenses/gpl.html][GNU GPL version 3]]
