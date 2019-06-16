@@ -75,24 +75,44 @@ https://github.com/yohewi/qmk_firmware/tree/master/keyboards/NumAtreus
   ※上にあるピンは通常使いません。
   ![pm](https://github.com/yohewi/NumAtreus/blob/master/JPG_buildguid/05con.jpg)    
   
- コンスルーは穴までの幅が狭い方がProMicro側のようです。  
+  コンスルーは穴までの幅が狭い方がProMicro側のようです。  
   ![con2](https://github.com/yohewi/NumAtreus/blob/master/JPG_buildguid/07con.jpg)  
   
- 穴の面を同じ方に揃えて、上からハンダしてください。  
+  穴の面を同じ方に揃えて、上からハンダしてください。  
   ![con3](https://github.com/yohewi/NumAtreus/blob/master/JPG_buildguid/09con.jpg)  
   
- ※もげマイクロ対策について  
+  ※もげマイクロ対策について  
   ![moge](https://github.com/yohewi/NumAtreus/blob/master/JPG_buildguid/08moge.jpg)  
- 2液混合の粘度が高い接着剤などで固定して下さい。  
+  2液混合の粘度が高い接着剤などで固定して下さい。  
   私のオススメはホットメルトです。多少不恰好ですが、簡単に付けられるのと、すぐに作業できるので便利です。
+  
+4.スイッチ  
+  好きなgateron、MX互換品かkailhロープロの  
+  ![sw2](https://github.com/yohewi/NumAtreus/blob/master/JPG_buildguid/03sw.jpg)  
+   5軸を使ってください。gateron系だとしっかりハマりますが、ロープロは緩めなので  
+   表からマスキングテープ等で固定しながらの作業をお勧めします。
 
-4.スイッチ
-
-一旦ProMicroを外しておくことをお勧めします。
-
-f:id:Agent_Y:20190405112104j:image
-
-   gateron、MX互換品かkailhロープロの
-
-   5軸を使ってください。gateron系だとしっかりハマりますが、ロープロは緩めなので表からマスキングテープ等で固定をお勧めします。
-
+5.アクリルケース  
+  大きいアクリルに短いネジで六角スペーサーを取り付けます。
+  ![neji](https://github.com/yohewi/NumAtreus/blob/master/JPG_buildguid/10neji.jpg)  
+     
+  六角スペーサーは下記の順番です。写真を見たほうがわかりやすいと思います。
+  1. PCBの載る内側が1番短いもの  
+  1. 外周の6本が2番目の長さのもの  
+  1. 外周奥側中心2本が長いもの  
+  ![ac](https://github.com/yohewi/NumAtreus/blob/master/JPG_buildguid/11sp.jpg)  
+  
+  スペーサーが設置出来たらPCBを短いネジで載せます。ネジの取り付け上、  
+  キーキャップは最後に乗せたほうがいいです。  
+  ![ac2](https://github.com/yohewi/NumAtreus/blob/master/JPG_buildguid/12on.jpeg)  
+  
+  PCBを設置したら、手前コの字型の枠を載せます。
+  ![ac3](https://github.com/yohewi/NumAtreus/blob/master/JPG_buildguid/13.jpg)  
+  ※この時、奥側の2本はねじ止めしません。  
+  
+  最後に奥側の枠を載せます。左右のネジは長いネジです。  
+  ![kansei](https://github.com/yohewi/NumAtreus/blob/master/JPG_buildguid/01.jpg)    
+    
+    
+完成！  
+お疲れ様でした！！  
