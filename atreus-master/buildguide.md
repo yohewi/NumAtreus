@@ -16,8 +16,7 @@
   ![02](https://github.com/yohewi/NumAtreus/blob/master/JPG_buildguid/02.jpg)  
 - キーキャップ1セット or 42個  
 　　勿論キースイッチに合ったものを用意してください。  
-- コンスルーピン（12ピン）2本  推奨です。  
-  ![con](https://github.com/yohewi/NumAtreus/blob/master/JPG_buildguid/12con.jpg)  
+
 
 QMKはこちらです。  
 https://github.com/yohewi/qmk_firmware/tree/master/keyboards/NumAtreus  
@@ -47,7 +46,9 @@ https://github.com/yohewi/qmk_firmware/tree/master/keyboards/NumAtreus
  1. ダイオード　約42本（足の長いやつ）  
  1. ネジ2種類28本
  1. スペーサー3種類  
- ※ProMicroは添付されるか未定。  
+ 1. コンスルーピン（12ピン）2本  
+  ![con](https://github.com/yohewi/NumAtreus/blob/master/JPG_buildguid/12con.jpg)  
+ 1. ProMicro  
   
 ※準備するものは、サリチル酸さんのところに書いてあるのが一番よくできてたのでぜひこちらを一読すると良いと思います。  
   salicylic-acid3.hatenablog.com  
