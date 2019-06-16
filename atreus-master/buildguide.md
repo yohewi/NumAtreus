@@ -12,7 +12,7 @@
 　　PCB表面実装用の５本足のもの！  
   「kailhのchoco」か「Gateron互換」！3ピンでも頑張ればいける。
 
-![sw](https://github.com/yohewi/NumAtreus/tree/master/JPG_buildguid/02 "sw")
+![key](https://github.com/yohewi/NumAtreus/JPG_buildguid/02.jpg)
 
 　・キーキャップ1セット or 42個
 
