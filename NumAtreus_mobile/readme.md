@@ -12,7 +12,7 @@ NumAtreus mobile STLについて
   → ネジ穴は3A+、3Bが使えますが、コネクタを外すなどカスタムが必要です  
  NumAtreusキーボード  
   → https://booth.pm/ja/items/1790931  
-  → Kailh Chocスイッチが必要です。MXの場合蓋側が閉まらないです。
+  → Kailh Chocスイッチが必要です。MXの場合蓋側が閉まらないです。  
  リチウムイオンポリマー電池  
  充電用基板  
   → 例 TP4056  
